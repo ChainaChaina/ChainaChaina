@@ -16,6 +16,11 @@
 - Three.js
 - Desing
 
+### Sites interessantes:.<br>
+-https://duck-you.vercel.app/<br>
+-https://resume-chaina.vercel.app/<br>
+-https://dates-estranhos.vercel.app/<br>
+
 ### Me dedico a um frontend mais artístico e interativo.<br>
 ###### Meu grandes objetivos são ganhar um site do dia no awwwards 💻 e trabalhar com a Mschf ‼️ 
 <br><br>
