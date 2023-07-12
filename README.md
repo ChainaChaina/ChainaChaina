@@ -11,6 +11,7 @@
 
 ### Meus interesses hoje em dia são 🎯:
 - Frontend
+- Storytelling
 - UI/UX
 - modelagem 3D
 - Three.js
