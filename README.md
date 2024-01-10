@@ -28,5 +28,4 @@
 [✨ _Último projeto publico_](https://duck-you.vercel.app/ "Duck You")
 
 <br><br>
-Como diriam na Yooga:
 # FIca a vontade!
